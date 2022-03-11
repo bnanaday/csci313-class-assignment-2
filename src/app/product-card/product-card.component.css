@@ -1,4 +1,7 @@
-.product-details {
-  background: #c4c7c6;
-  padding: 2px 15px;
+.product-card {
+  background: rgb(181, 223, 210);
+  margin: 10px;
+}
+.product-name {
+  font-weight: 700;
 }
